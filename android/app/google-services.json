@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495810092899",
+    "project_id": "flutter-57d6a",
+    "storage_bucket": "flutter-57d6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495810092899:android:0bc0dc523d37e64578bd56",
+        "android_client_info": {
+          "package_name": "com.example.recipe_book_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ2lRe-cIab2dSt9m-9MUWxxPhU-y1Ny4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
